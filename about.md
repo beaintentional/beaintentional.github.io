@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: About Bea
 ---
 ## Who am I?
-A dreamer, writer, poet, thinker, mother, womyn
+I am a dreamer, writer, poet, thinker, mother, womyn, wife and scholar.
 
-### Do we love email?
-![Nope](https://i.gifer.com/1Ls0.gif)
+
+!(https://cdn.pixabay.com/photo/2020/04/19/06/13/sri-lanka-5062006_1280.jpg)
