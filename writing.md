@@ -15,7 +15,7 @@ Hollowed out, and hanging onto the discarded,
 
 the beauty of giving yourself fully to a life of caregiving.
 
-<br></br>
+<br>
 
 # A Quiet Place
 
