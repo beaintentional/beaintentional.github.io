@@ -3,7 +3,7 @@ title: Poetry
 ---
 
 # The Hollow Scarecrow
-### <i>Inspired by Sarah Simmons’ art piece <a href=“https://www.anthropologyofmotherhood.com/sarah-simmons” target=“_blank”>‘Scarecrow’</a></i>
+### <i>Inspired by Sarah Simmons’ art piece <a href=“https://www.anthropologyofmotherhood.com/sarah-simmons” target=“_blank”>Scarecrow</a></i>
 
 Like a cored out apple, stripped of its inner self,
 
