@@ -3,5 +3,7 @@
 <h3>PUZZLES!</h3>
 
 <p>This is a fun page for beings who like puzzles.</p>
-
+<br>
+Who doesn't love a good puzzle?
+<br>
 <blink>Revolution</blink>
