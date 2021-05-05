@@ -1,3 +1,7 @@
+---
+layout: default
+title: MAD LIBS
+---
 <section id="user-input">
     <!--- This is the main user input section a form tag wraps the inputs we want to collect -->
     <form method="get">
